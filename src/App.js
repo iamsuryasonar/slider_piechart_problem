@@ -16,7 +16,7 @@ export default function App() {
       <div
         className="circle"
         style={{
-          backgroundImage: `conic-gradient(red ${value}%, transparent 0)`
+          backgroundImage: `conic-gradient(red ${value}%, lightgreen 0)`
         }}
       ></div>
     </div>
