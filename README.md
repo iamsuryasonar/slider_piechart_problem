@@ -2,7 +2,7 @@
 
 
 
-Build a slider, on increasing/ decreasing the slider value should reflect in a pieChart.
+Build a slider, on increasing/ decreasing the slider, value should reflect in a pieChart.
 
 
 
