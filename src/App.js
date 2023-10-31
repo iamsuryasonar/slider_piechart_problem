@@ -15,8 +15,11 @@ export default function App() {
       />
       <div
         className="circle"
+        // Conic gradient-
+        // RED STARTS FROM ZERO DEGREE TO THE PERCENTAGE VALUE,
+        // AND LIGHTGREEN START FROM ZERO DEGREE TO 360 DEGREES
         style={{
-          backgroundImage: `conic-gradient(red ${value}%, lightgreen 0)`
+          backgroundImage: `conic-gradient(red 0,red ${value}%, lightgreen 0,lightgreen 360deg)`
         }}
       ></div>
     </div>
